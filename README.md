@@ -1,7 +1,5 @@
 # 🚀 CodeWithHarry × Python Challenge
 
-![CodeWithHarry Python Banner](./path-to-your-image.png)
-
 Welcome to my **100 Days of Python** journey inspired by [CodeWithHarry](https://www.youtube.com/@CodeWithHarry)!  
 This repository documents my daily progress, scripts, and learnings as I dive deeper into Python programming and automation.
 
