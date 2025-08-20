@@ -19,15 +19,3 @@ Python is a high-level, interpreted language that’s:
 🌐 Web Development
 🧮 Business & Accounting
 🗄️ Database Management
-
-🧪 First Python Code
-python-
-
-print("Hello World")
-print(5)
-
-🖥️ Output:
-Code
-
-Hello World
-5
