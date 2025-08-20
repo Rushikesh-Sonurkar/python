@@ -1,0 +1,33 @@
+🚀 100 Days of Python – Day 1: What is Programming & Python?
+
+👨‍💻 Programming is simply telling computers what to do. While we humans are great at creativity, computers excel at speed and precision. So why not delegate the heavy lifting?
+🧠 Try calculating 23453453 × 56456 in your head... not fun, right? That’s where programming shines—and Python makes it fun.
+
+🐍 What is Python?
+
+Python is a high-level, interpreted language that’s:
+
+🔧 Dynamically typed & beginner-friendly
+🧠 Supports both object-oriented & functional programming
+🌍 Platform-independent & open-source
+📚 Backed by powerful libraries like NumPy, TensorFlow, Selenium & OpenCV
+
+💡 Where is Python used?
+
+📊 Data Visualization & Analytics
+🤖 AI & Machine Learning
+🌐 Web Development
+🧮 Business & Accounting
+🗄️ Database Management
+
+🧪 First Python Code
+python-
+
+print("Hello World")
+print(5)
+
+🖥️ Output:
+Code
+
+Hello World
+5
