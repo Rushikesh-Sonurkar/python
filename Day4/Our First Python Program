@@ -1,0 +1,30 @@
+# 🐍 Day 4 – Our First Python Program | #100DaysOfPython
+
+Welcome to Day 4 of my #100DaysOfPython journey!  
+Today, we write our **first Python program** using the `print()` function. This is the foundation of console output and a great way to start coding from scratch.
+
+---
+
+## 🖨️ What is `print()` in Python?
+
+The `print()` function is used to display text or data on the console.  
+It’s one of the most commonly used functions in Python and helps us:
+
+- Show messages
+- Debug code
+- Display results
+
+---
+
+## ✨ Task of the Day: Print a Poem
+
+Let’s get creative!  
+Write a Python program that prints a poem of your choice.
+
+### 💡 Example:
+
+```python
+print("Two roads diverged in a yellow wood,")
+print("And sorry I could not travel both")
+print("And be one traveler, long I stood")
+print("And looked down one as far as I could")
