@@ -1,0 +1,41 @@
+# 📘 Day 3 – Modules and pip in Python | #100DaysOfPython
+
+Welcome to Day 3 of my #100DaysOfPython journey!  
+
+Today’s focus: understanding **modules** in Python and how to use **pip** to install external libraries.
+
+---
+
+## 🧩 What Are Modules?
+
+Modules are reusable code libraries that help us avoid reinventing the wheel. Python supports two types:
+
+### 🔹 Built-in Modules
+- Already included with Python.
+- No installation required.
+- Just import and use!
+
+### 🔹 External Modules
+- Created by third-party developers.
+- Installed using package managers like `pip` or `conda`.
+- Can be versioned and updated over time.
+
+---
+
+## 📦 Installing Modules with pip
+
+To install an external module like `pandas`, use:
+
+```bash
+pip install pandas
+🔗 Learn more about pip: pip.pypa.io
+
+🐍 Using a Module in Python
+Here’s a simple example using pandas to read a CSV file:
+
+python
+import pandas
+
+df = pandas.read_csv('words.csv')
+print(df)
+This reads the contents of words.csv and prints the data.
