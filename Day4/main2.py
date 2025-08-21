@@ -1,0 +1,6 @@
+print("hello world")
+print(7)
+print("hellow world", 7)
+print("hello world", 789)
+print("hello world", 34*2)
+print("hello world", 2+2)
